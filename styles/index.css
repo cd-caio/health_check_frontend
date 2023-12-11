@@ -1,0 +1,14 @@
+#titulo {
+    display:                grid;
+    place-items:            left;
+    color:                black;
+}
+
+.conteudo-centro {
+    position: relative;
+    left: 30%;
+}
+
+#cabecalho {
+    background-color:     powderblue;
+}
